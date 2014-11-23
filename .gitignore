@@ -7,4 +7,4 @@
 !.vim/
 
 # ...even if they are in subdirectories
-!*/
+# !*/
